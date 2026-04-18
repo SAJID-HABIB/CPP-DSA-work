@@ -10,7 +10,8 @@ int main()
     string name;
     int year;
 
-    int count, i = 0;
+    int count;
+    int  i = 0;
     cout << "How many student's data you want to enter\n";
     cin >> count;
     while (i != count)
